@@ -7,6 +7,8 @@ function App() {
       <Toaster position="bottom-center" />
       <AddTodo />
       <TodoList />
+
+      <footer>Copyright 2023 Ahmed Benali</footer>
     </div>
   )
 }
